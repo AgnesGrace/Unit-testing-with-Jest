@@ -43,12 +43,20 @@ Ensure you have the following installed:
 
 ### Installation & Running Tests
 
-1. Install dependencies:
+**Clone the repository**:
 
-   ```bash
-   npm install
-   ```
+To get started, you can clone the repository using the "Code" button on the GitHub page. Simply click the button, copy the repository link (either HTTPS, SSH, or GitHub CLI), and run the following command in your terminal:
 
-2. Run all tests:
+```bash
+git clone https://github.com/AgnesGrace/Unit-testing-with-Jest.git
+```
+
+**Install dependencies:**
+
+```bash
+npm install
+```
+
+**Run all tests:**
 
 npm test
